@@ -1,4 +1,6 @@
 # star_trees
 I make infinite star trees
 
-The main method allows you to decide how many star groups you want, and how much spacing you want between each group.
+Main method uses these two methods to create the star tree. It then uses a separate method to print it.
+makeStars() - amount of stars you want to make
+orderStars() - amount of blank space between each star group
